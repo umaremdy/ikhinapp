@@ -1,0 +1,43 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "Demo of this project can be found [here](https://www.youtube.com/watch?v=aE1Cxbio5l8)",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brfs": "^2.0.2",
+    "brfs-babel": "^2.0.0",
+    "browserify": "^16.2.3",
+    "browserify-fs": "^1.0.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "cryptr": "^4.0.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.21.3",
+    "solc": "^0.5.7",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "web3": "^1.0.0-beta.34"
+  },
+  "repository": {
+    "type": "",
+    "url": " "
+  },
+  "bugs": {
+    "url": " "
+  },
+  "homepage": " "
+}

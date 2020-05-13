@@ -1,0 +1,14 @@
+->Sequalize:- Node module for database connections.
+->Promises:- Sequelize uses promises to control async control-flow.Basically, a promise represents 
+a value which will be present at some point
+->Web 3 JS:-
+Collection of libraries which allow you to interact with local/remote etherium node using HTTP/IPC connections.
+Etherium javascript API.Interface through which website can talk to etherium blockchain.
+
+->Infura:Access ehterium node over network.Infrastructure for DAPP.
+It is like metamask.
+
+
+
+
+
