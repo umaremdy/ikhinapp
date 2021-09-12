@@ -6,6 +6,12 @@
   "directories": {
     "test": "test"
   },
+  
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  },
+  
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
